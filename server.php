@@ -10,7 +10,7 @@
 // prevent the server from timing out
 set_time_limit(0);
 
-$port ="test PJ";
+$port ="test PJ test dsds";
 
 
 // include the web sockets server script (the server is started at the far bottom of this file)
